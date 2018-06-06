@@ -25,7 +25,7 @@ const uint32_t g_ADigitalPinMap[] = {
   9,
   10,
   8,
-  21,
+ // 21,
   23,
   16,
   17,
@@ -52,8 +52,8 @@ const uint32_t g_ADigitalPinMap[] = {
 
   // MISO, SCK, MOSI
   22,
-  25,
-  30,
+  20,
+  21,
 
 
   // AREF
